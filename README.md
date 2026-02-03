@@ -1,7 +1,7 @@
 # Excel Projects For Data Analytics
 Hi, I have made a few projects shocasing my excel skills I just learned :)
 
-So, Baiscally, I have made 3 Projects using Excel:-
+Till Now,, I have made 4 Projects using different skillsets in Excel from the beginner level to an adavanced job-ready level:-
 1. [**Salary Dashboard**](Excel_Project_1-Dashboard)
 2. [**Salary And Skills Analysis**](Excel_Project_2-Analysis)
 3. [**Coffee Shop Sales Dashboard**](Excel_Project_3-Coffee_Shop_Sales)
