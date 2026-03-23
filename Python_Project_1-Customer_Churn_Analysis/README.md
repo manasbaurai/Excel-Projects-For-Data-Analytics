@@ -6,7 +6,7 @@ This report explores customer churn patterns from a telecom dataset. The goal is
 
 ## 📁 Dataset Overview
 
-The dataset (`Customer_Churn.csv`) contains customer demographic information, account details, and service subscriptions for a telecom company. Each row represents a customer, and the target variable is **Churn** (Yes/No).
+The dataset ([Customer Churn.csv](Customer_Churn.csv)) contains customer demographic information, account details, and service subscriptions for a telecom company. Each row represents a customer, and the target variable is **Churn** (Yes/No).
 
 **Key preprocessing steps performed:**
 - Blank values in `TotalCharges` were replaced with `0` and the column was cast to `float`
