@@ -6,7 +6,7 @@ This report explores a movies dataset to uncover **correlations between various 
 
 ## 📁 Dataset Overview
 
-The dataset (`movies.csv`) contains information about thousands of movies including their name, genre, rating, release year, score, votes, director, writer, star, country, budget, gross revenue, production company, and runtime.
+The dataset ([movies.csv](movies.csv)) contains information about thousands of movies including their name, genre, rating, release year, score, votes, director, writer, star, country, budget, gross revenue, production company, and runtime.
 
 ---
 
